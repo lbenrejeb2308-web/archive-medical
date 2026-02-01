@@ -9,3 +9,4 @@ python-bidi
 plotly
 streamlit-option-menu
 streamlit-cookies-controller
+PyPDF2
