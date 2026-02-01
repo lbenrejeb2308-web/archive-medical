@@ -7,4 +7,5 @@ fpdf2
 arabic-reshaper
 python-bidi
 plotly
-streamlit-option_menu
+streamlit-option-menu
+streamlit-cookies-controller
